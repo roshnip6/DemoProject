@@ -64,7 +64,7 @@ default : System.out.print("Wrong Choice.....\n");
 break;
 }
    }
-// loop works till the number 5 not selected.xxx
+// loop works till the number 5 not selected.
  while(choice!=5);
 }
 
